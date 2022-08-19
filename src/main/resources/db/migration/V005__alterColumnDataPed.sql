@@ -1,0 +1,1 @@
+alter table entrega rename column data_pedido to dataPedido
