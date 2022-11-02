@@ -6,6 +6,8 @@ ___
   <img src="https://github.com/Ualace36/dataImag/blob/main/apiLogo.png" width="300" heigth="300">
 </p>
 
+[![skills](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot/)
+[![skills](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/)
 
 <p align="center">
   <a href="LICENSE">
