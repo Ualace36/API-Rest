@@ -32,7 +32,7 @@ ___
 
 ## :information_source: Sobre
 
-Esse projeto é de uma API REST desenvolvida no Spring Boot. Se trata de uma aplicação de gestão logística de uma transportadora. Busquei implementar as práticas mais atuais de mercado como um tratamento de Exception customizado, clean code, camada DTO e padrão MVC. Além disso, fiz uso dos conceitos de Scrum (metodologias ágeis). Para armazenamento utilizei o banco de dados MySQL, para documentação utilizei a biblioteca Open Api Swagger. 
+Esse projeto é de uma API REST padrão MVC desenvolvida no Spring. Se trata de uma aplicação de gestão logística de uma transportadora. Busquei implementar as práticas mais atuais de mercado como um tratamento de Exception customizado, clean code, camada DTO e padrão MVC. Além disso, fiz uso dos conceitos de Scrum (metodologias ágeis), fazendo entrega testáveis do projeto. Para armazenamento utilizei o banco de dados MySQL e a biblioteca Flyway como esquema de migração de dados, para documentação utilizei a biblioteca Open Api Swagger, no código adotei o Optional do java 8 e o model mapper. 
 
 ## :interrobang: Motivo
 
